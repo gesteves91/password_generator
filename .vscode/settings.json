@@ -1,0 +1,4 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.pythonPath": "/home/geanderson/anaconda3/envs/anomaly/bin/python"
+}
